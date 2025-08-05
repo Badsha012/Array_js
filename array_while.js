@@ -6,3 +6,10 @@ while(k<num.length){
     k++;
 
 }
+const fruits=['apple','mango','jackfurites','lily'];
+let n=0;
+while(n<fruits.length){
+    console.log(fruits[n]);
+    n++;
+    
+}
